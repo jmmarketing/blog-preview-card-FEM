@@ -63,6 +63,7 @@
   &__excerpt {
     font-size: $defaul-font-size;
     font-weight: 500;
+    line-height: 150%;
 
     @include respond(phone) {
       font-size: 1.4rem;
