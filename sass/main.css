@@ -71,6 +71,7 @@ body {
 .card__title {
   font-size: 2.4rem;
   font-weight: 800;
+  line-height: 150%;
   cursor: pointer;
 }
 @media only screen and (max-width: 23.5em) {
